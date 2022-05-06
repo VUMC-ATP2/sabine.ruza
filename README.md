@@ -1,5 +1,5 @@
-#sabine.ruza
-##About me
+# sabine.ruza
+### About me
 Now I'm working as a Development Manager for **3 years**. My main responsibilities include:
 - Technical execution of Document management development activities, lead and supervise the implementation of projects related to document management - local and Baltic projects.
 - Coordinate internal Document Management system developments. Identify business needs, collect input and compile business cases for DM system improvements from internal stakeholders. Participate in quality assurance and testing.
